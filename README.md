@@ -1,6 +1,7 @@
-# 📖 책 취향 공유 서비스앱 README
+# 프로젝트 관리 시스템 TRYFORGE README
 
-![readme_mockup2](https://user-images.githubusercontent.com/112460466/210706312-6a44b60d-a42e-4210-b334-9e5983f70fb3.png)
+![readme_mockup2](![image](https://github.com/limsol02/TryForge/assets/145991941/f9bdb6fb-f925-4706-93ca-d330eba64ee8)
+)
 
 - 배포 URL : https://ohmycode-readme.netlify.app
 - Test ID : readme@test.com
