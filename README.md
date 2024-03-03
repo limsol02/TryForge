@@ -19,7 +19,7 @@ TryForge PMS를 도입하여 프로젝트 관리의 다양한 측면을 개선�
 
 | **김정현** | **오윤서** | **임솔** | 
 | :------: |  :------: | :------: | 
-| [<img src="https://avatars.githubusercontent.com/u/106502312?v=4" height=150 width=150> <br/> @hyeon2z](https://github.com/hyeon2z) | [<img src="https://avatars.githubusercontent.com/u/112460466?v=4" height=150 width=150> <br/> @Cheorizzang](https://github.com/Cheorizzang) | [<img src="https://avatars.githubusercontent.com/u/112460506?v=4" height=150 width=150> <br/> @heejiyang](https://github.com/heejiyang) | [<img src="https://avatars.githubusercontent.com/u/76766459?v=4" height=150 width=150> <br/> @journey-ji](https://github.com/journey-ji) |
+| [@hyeon2z](https://github.com/hyeon2z) | [@seO-Oyen](https://github.com/seO-Oyen) | [@limsol02](https://github.com/limsol02) | 
 
 </div>
 
