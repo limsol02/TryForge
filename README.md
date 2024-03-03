@@ -104,8 +104,7 @@ TryForge PMS를 도입하여 프로젝트 관리의 다양한 측면을 개선�
 
 ### [관리자 대시보드]
 - 로그인 시 세션값으로 회원의 정보를 저장하여 권한이 PM,ADM 인 경우 관리자 페이지로 이동합니다.
-| 관리자 대시보드 |
-|----------|
+
 |![image](https://github.com/limsol02/TryForge/assets/145991941/abb4f66a-8b51-4b6e-b973-b28b4e00542c)
 |
 
@@ -121,7 +120,7 @@ TryForge PMS를 도입하여 프로젝트 관리의 다양한 측면을 개선�
 
 | 프로젝트 관리 |
 |----------|
-|[![setProfile](https://user-images.githubusercontent.com/112460466/210173749-2da6c9af-eb93-4eea-9663-1a03e19299ec.gif)](https://1drv.ms/v/s!AkauY9hS9mgav2Epht5pgEuR_WVH?e=8vRFIV)|
+|https://1drv.ms/v/s!AkauY9hS9mgav2Epht5pgEuR_WVH?e=mpdYLb|
 
 <br>
 
