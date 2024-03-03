@@ -41,10 +41,10 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
     </a>
     <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesshol&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=yesshol&show_icons=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=limsol02&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=limsol02&show_icons=true">
     <br><br>
-    <img src="https://github-contributor-stats.vercel.app/api?username=yesshol">
+    <img src="https://github-contributor-stats.vercel.app/api?username=limsol02">
     <br><br>
     <img src="./profile-3d-contrib/profile-season-animate.svg">
 </div>
