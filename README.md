@@ -120,7 +120,7 @@ TryForge PMS를 도입하여 프로젝트 관리의 다양한 측면을 개선�
 
 | 프로젝트 관리 |
 |----------|
-|![프로젝트 관리](https://1drv.ms/i/s!AkauY9hS9mgav2JEkA4loMC1zcmv?e=4TGK11)|
+|![ezgif com-speed](https://github.com/seO-Oyen/TryForge/assets/145991941/b6605bbc-1c8b-4d1d-beb0-23a6d28d6250)|
 
 <br>
 
