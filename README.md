@@ -33,25 +33,18 @@
 <div align=center>
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
-<div align=center>
-	
-	<a href="mailto:ghdwjdgh89@gmail.com">
-		<img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
-	</a>
-	<a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
-		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
-	</a>
-	<br>
+<div align="center">
+    <a href="mailto:ghdwjdgh89@gmail.com">
+        <img src="https://img.shields.io/badge/Mail-30B980?style=flat&logo=Gmail&logoColor=white" />
+    </a>
+    <a href="https://gentle-snowboard-1c6.notion.site/Yermi-5e8c65dba4df4ab09e83665cf2ee001d">
+        <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
+    </a>
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesshol&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=yesshol&show_icons=true">
+    <br><br>
+    <img src="https://github-contributor-stats.vercel.app/api?username=yesshol">
+    <br><br>
+    <img src="./profile-3d-contrib/profile-season-animate.svg">
 </div>
-<div align=center>
-	<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesshol&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=yesshol&show_icons=true">
-
-![Sol's GitHub Contributor stats](https://github-contributor-stats.vercel.app/api?username=yesshol)
-
-<br>
-
-<br>
-
-![](./profile-3d-contrib/profile-season-animate.svg)
