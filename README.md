@@ -1,7 +1,7 @@
 # 프로젝트 관리 시스템 TRYFORGE README
 
-![readme_mockup2](![image](https://github.com/limsol02/TryForge/assets/145991941/f9bdb6fb-f925-4706-93ca-d330eba64ee8)
-)
+![readme_mockup2](https://github.com/limsol02/TryForge/assets/145991941/f9bdb6fb-f925-4706-93ca-d330eba64ee8)
+
 
 - 배포 URL : https://ohmycode-readme.netlify.app
 - Test ID : readme@test.com
