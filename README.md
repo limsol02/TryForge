@@ -31,7 +31,7 @@ TryForge PMS를 도입하여 프로젝트 관리의 다양한 측면을 개선�
 - Back-end : Java, SpringBoot, Spring, Jsp
 - 버전 및 이슈관리 : Github, Github Issues
 - 협업 툴 : Discord
-- 디자인 : [Bootstrap]
+- 디자인 : Bootstrap
 
 <br>
 
@@ -95,8 +95,8 @@ TryForge PMS를 도입하여 프로젝트 관리의 다양한 측면을 개선�
 
 ### [초기화면]
 - 로그인이 필수여야만 페이지 이용이 가능하기에 바로 로그인 화면으로 이동합니다.
-| 초기화면 |
-|----------|
+
+
 |(![image](https://github.com/limsol02/TryForge/assets/145991941/71fcf620-c36f-43aa-a179-049438c144be)
 )|
 
