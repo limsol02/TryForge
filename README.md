@@ -97,16 +97,16 @@ TryForge PMS를 도입하여 프로젝트 관리의 다양한 측면을 개선�
 - 로그인이 필수여야만 페이지 이용이 가능하기에 바로 로그인 화면으로 이동합니다.
 
 
-|(![image](https://github.com/limsol02/TryForge/assets/145991941/71fcf620-c36f-43aa-a179-049438c144be)
-)|
+(![image](https://github.com/limsol02/TryForge/assets/145991941/71fcf620-c36f-43aa-a179-049438c144be)
+
 
 <br>
 
 ### [관리자 대시보드]
 - 로그인 시 세션값으로 회원의 정보를 저장하여 권한이 PM,ADM 인 경우 관리자 페이지로 이동합니다.
 
-|![image](https://github.com/limsol02/TryForge/assets/145991941/abb4f66a-8b51-4b6e-b973-b28b4e00542c)
-|
+![image](https://github.com/limsol02/TryForge/assets/145991941/abb4f66a-8b51-4b6e-b973-b28b4e00542c)
+
 
 <br>
 
@@ -173,7 +173,7 @@ TryForge PMS를 도입하여 프로젝트 관리의 다양한 측면을 개선�
 - 결재 첨부파일을 다운로드 할 수 있습니다.
 - 재상신 요청과, 결재완료 처리를 할 수 있습니다.
 | 결재관리 |
-|----------|----------|
+|----------|
 |![결재관리](https://github.com/seO-Oyen/TryForge/assets/145991941/b9912308-91ce-4170-81ae-62938feaa814)|
 
 <br>
@@ -196,7 +196,7 @@ TryForge PMS를 도입하여 프로젝트 관리의 다양한 측면을 개선�
 - AOP를 이용하여 에러를 트래킹해, 발생 날짜와 경로를 확인할 수 있습니다.
 
 | 에러관리 |
-|----------|----------|
+|----------|
 |![에러관리](https://github.com/seO-Oyen/TryForge/assets/145991941/4266baca-e274-4eab-a173-5f25cb24a3c2)|
 
 <br>
